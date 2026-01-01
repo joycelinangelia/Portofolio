@@ -15,9 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Joycelin Angelia | Portfolio",
   description: "Data Scientist Portfolio",
-  icons: {
-    icon: "/icon.png",
-  },
+  
 };
 
 export default function RootLayout({
