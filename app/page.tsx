@@ -74,7 +74,7 @@ const projects: Project[] = [
 
 const experiences: Experience[] = [
   {
-    role: "Web Developer Intern",
+    role: "Web Developer and Technical Researcher Intern",
     company: "德和月國際科技股份有限公司",
     location: "Taipei",
     period: "Feb 2025 - Jul 2025", // Adjusted based on your resume data
