@@ -23,9 +23,9 @@ const projects: Project[] = [
   {
     title: "SlotGo",
     period: "Feb 2025 - Present",
-    association: "National Taiwan Ocean University",
+    association: "Internship Platform Project",
     description:
-      "A hybrid internship ecosystem. I architected the SQL database and built a responsive web admin dashboard for HR using Astro & Solid.js, while simultaneously developing a cross-platform mobile app in Flutter for students to apply for jobs.",
+      "A hybrid internship ecosystem. I architected the SQL database and built a responsive web admin dashboard for HR using Astro & Solid.js, while simultaneously developing a cross-platform mobile app in Flutter for students to apply for internships.",
     techStack: [
       "Astro",
       "Solid.js",
@@ -41,7 +41,7 @@ const projects: Project[] = [
   {
     title: "Hospital Management System",
     period: "Nov 2024 - Dec 2024",
-    association: "National Taiwan Ocean University",
+    association: "Database System Coursework",
     description:
       "A secure, role-based platform designed to streamline hospital operations. Features include patient registration, treatment record management for doctors, and administrative controls. Focused on secure database integration and system design.",
     techStack: ["React.js", "System Design", "Database Management"],
@@ -49,7 +49,7 @@ const projects: Project[] = [
   {
     title: "OceanSpace",
     period: "Oct 2024 - Dec 2024",
-    association: "National Taiwan Ocean University",
+    association: "Campus Utility Solution",
     description:
       "A university classroom booking system tailored to facilitate room reservations and scheduling. Streamlines the administrative process of requesting and approving classroom usage for students and faculty.",
     techStack: ["Web Development", "UI/UX Design"],
@@ -57,7 +57,7 @@ const projects: Project[] = [
   {
     title: "BudgetBloom",
     period: "Feb 2024 - Apr 2024",
-    association: "National Taiwan Ocean University",
+    association: "FinTech Application Prototype",
     description:
       "A Java-based financial growth companion. Developed algorithms to automate expense categorization and integrated APIs for real-time currency conversion—a key feature designed specifically for international students.",
     techStack: ["Java", "Financial Analytics", "API Integration"],
@@ -65,7 +65,7 @@ const projects: Project[] = [
   {
     title: "Pomodoro Study Hub",
     period: "Oct 2023 - Dec 2023",
-    association: "National Taiwan Ocean University",
+    association: "Web Database Integration",
     description:
       "A productivity tool based on the Pomodoro Technique. It tracks work sessions and breaks to prevent burnout. Built with a full stack approach to manage user data and session history.",
     techStack: ["HTML", "CSS", "JavaScript", "MongoDB"],
@@ -105,7 +105,7 @@ export default function Home() {
       <nav className="sticky top-0 z-50 bg-[#FDFCF8]/80 backdrop-blur-md border-b border-stone-100 transition-all">
         <div className="max-w-7xl mx-auto px-6 md:px-12 h-20 flex items-center justify-between">
           <a href="#" className="font-serif font-bold text-stone-900 tracking-tight text-xl">
-            JA.
+            JA
           </a>
 
           <div className="hidden md:flex gap-8 text-sm font-medium text-stone-500">
@@ -135,8 +135,8 @@ export default function Home() {
           </h1>
 
           <p className="text-lg md:text-2xl text-stone-600 leading-relaxed mb-10 max-w-2xl mx-auto font-light">
-            Aspiring Data Scientist & Web Developer. <br className="hidden md:block" />
-            Blending technical logic with clean design.
+            Aspiring Data Scientist. <br className="hidden md:block" />
+            Bridging the gap between raw data and decision-making.
           </p>
 
           <div className="flex flex-wrap justify-center gap-4">
@@ -186,7 +186,7 @@ export default function Home() {
         <section id="projects" className="mb-32 scroll-mt-24 border-t border-stone-200 pt-16">
           <div className="flex flex-col md:flex-row justify-between items-end mb-12 gap-4">
             <div>
-              <h2 className="text-4xl font-serif text-stone-900 mb-2">Selected Projects</h2>
+              <h2 className="text-4xl font-serif text-stone-900 mb-2">Projects</h2>
               <p className="text-stone-500">A collection of tools and analysis I've built.</p>
             </div>
           </div>
