@@ -269,7 +269,7 @@ export default function Home() {
                 </div>
 
                 <div className="bg-[#F5F2EB] p-8 rounded-xl border border-[#ebe5da]">
-                  <span className="text-xs font-bold tracking-widest text-stone-400 uppercase">Certificate</span>
+                  <span className="text-xs font-bold tracking-widest text-stone-400 uppercase">Certification</span>
                   <h3 className="font-bold text-stone-800 mt-2 text-xl font-serif">Google Advanced Data Analytics</h3>
                   <p className="text-stone-600 mt-1">Coursera</p>
                   <p className="text-xs text-stone-500 mt-6 font-medium">Issued Oct 2025</p>
