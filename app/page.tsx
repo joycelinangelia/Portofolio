@@ -105,7 +105,7 @@ export default function Home() {
       <nav className="sticky top-0 z-50 bg-[#FDFCF8]/80 backdrop-blur-md border-b border-stone-100 transition-all">
         <div className="max-w-7xl mx-auto px-6 md:px-12 h-20 flex items-center justify-between">
           <a href="#" className="font-serif font-bold text-stone-900 tracking-tight text-xl">
-            Portofolio
+            Portfolio
           </a>
 
           <div className="hidden md:flex gap-8 text-sm font-medium text-stone-500">
